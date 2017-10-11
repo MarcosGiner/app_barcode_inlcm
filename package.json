@@ -1,0 +1,19 @@
+{
+    "name": "com.phonegap.helloworld",
+    "version": "1.0.0",
+    "displayName": "helloworld",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ]
+    },
+    "dependencies": {
+        "cordova-android": "^6.2.3",
+        "cordova-ios": "~4.4.0",
+        "cordova-plugin-app-event": "file:node_modules\\cordova-plugin-app-event",
+        "cordova-plugin-fcm": "^2.1.2",
+        "cordova-plugin-local-notification": "^0.8.4",
+        "cordova-plugin-local-notifications": "^1.0.0",
+        "phonegap-plugin-push": "^2.0.0"
+    }
+}
